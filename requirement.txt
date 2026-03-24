@@ -1,5 +1,5 @@
-
+cohera
 groq
-requests
-cohere
+hugging face
+ollama
 python-dotenv
